@@ -1,1 +1,1 @@
-# Projeto-n-meroSecreto---Alura
+# Projeto: Jogo Número Secreto - Alura
