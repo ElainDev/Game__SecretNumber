@@ -2,8 +2,8 @@ alert('Welcome to the Secret Number game');
 let numeroSecreto = 5;
 let chute = prompt('Choose the secret number between 1 and 30'); 
 
-if(chute == numeroSecreto){ // Se o chute for igualzinho ao Numero Secreto, vai exibir uma mensagem.
-    console.log('Congratulations! You have discovered the secret number(5)!');
+if(chute == numeroSecreto){ // Se o chute for igualzinho ao Numero Secreto, caso a contição for verdadeira, vai exibir uma mensagem
+    console.log('Congratulations! You have discovered the secret number(5)!'); 
 }
 
 //alert -> Vai exibir uma mensagem (It will display a message)
