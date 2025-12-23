@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="assets/Em construção.png" width="300px" alt="Boh and Yu-bird" style="vertical-align: middle;">
+  <img src="assets/Em construçao.png" width="300px" alt="Boh and Yu-bird" style="vertical-align: middle;">
   <span style="font-size: 20px; margin-left: 10px;">
     <b>Status do Projeto:</b> 🚧 Em construção (Acompanhando as aulas)
   </span>
