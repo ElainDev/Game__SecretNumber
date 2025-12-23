@@ -2,6 +2,7 @@ alert('Welcome to the Secret Number game');
 let secretNumber = 5;
 console.log(secretNumber);
 let kick; 
+let tentativas = 1;
 
 //enquanto o chute não for igual ao numero secreto
 while (kick != secretNumber) {
@@ -9,13 +10,15 @@ while (kick != secretNumber) {
 
     // Se o kick for igualzinho ao Secret Number, caso a contição for verdadeira, vai exibir uma mensagem. Senão for igual, vai exibir outra mensagem.
     if (kick == secretNumber){ //Se (True) 
-        alert(`Congratulations! You have discovered the secret number: ${secretNumber}!`); 
+        alert(`Congratulations! You have discovered the secret number: ${secretNumber} with ${tentativas}!`); 
     } else { //senão (false)                                                                
         if (kick > secretNumber) {
             alert(`The secret number is less than ${kick}`);
         } else {
             alert (`The secret number is greater than ${kick}`)
         }
+        //tentativas = tentativas +1;
+        tentativas++;
     }
 }
 
