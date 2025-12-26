@@ -13,7 +13,7 @@
 
 
 ## 📝 Sobre o Projeto
-O "Número Secreto" é um jogo simples, mas que explora conceitos fundamentais de programação, como manipulação do DOM (Document Object Model), funções, condições e listas (arrays).
+O "Número Secreto" é um jogo simples, mas que explora conceitos fundamentais de programação, como Lógica de programação, funções e condições.
 
 ## Funcionalidades atuais:
 Geração de um número aleatório entre 1 e 10.
