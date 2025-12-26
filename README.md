@@ -5,10 +5,8 @@
 </p>
 
 <div align="center">
-  <img src="assets/Em construçao.png" width="300px" alt="Boh and Yu-bird" style="vertical-align: middle;">
-  <span style="font-size: 20px; margin-left: 10px;">
-    <b>Status do Projeto:</b> 🚧 Em construção (Acompanhando as aulas)
-  </span>
+  <img src="assets/Pronto.png" width="100px" alt="Boh and Yu-bird" style="vertical-align: middle;">
+  <strong style="font-size: 18px;">Status do Projeto: Finalizado </strong>
 </div>
 
 <br>
@@ -52,8 +50,22 @@ Neste projeto, apliquei diversos conceitos de lógica de programação:
 | **Variáveis** | Declaração com `let`, Armazenamento de dados |
 | **Estruturas de Repetição** | `while`, `for`, uso do `break` |
 | **Condicionais** | `if-else`, Operador Ternário (`? :`) |
-| **Matemática e Lógica** | `Math.random()`, Operadores Lógicos (&&, || , !) e (<,>, <=, >=, ==, != ) |
+| **Matemática e Lógica** | `Math.random()`, `ParseInt` , `Operadores Lógicos` (&&, || , !) e (<,>, <=, >=, ==, != ) |
 | **Sintaxe e Organização** | Template Strings (uso de backticks `` ` ``), Comentários |
+
+## Anotação 📝
+| Sintaxe | Função |
+| :--- | :--- |
+| alert |  Vai exibir uma mensagem |
+| let |  uma variável que vai guardar uma informação em um espaço de memória. Obs: a variável tem que ter um nome, para podemos especificar |
+| prompt |  É similar com alert, porém, possui um input que permite que o usuário insiram um dado, como texto por exemplo. |
+| console.log |  Exibe a mensagem no terminal (ferramenta desenvolvedor)  |
+| template string |  Ele chama a variável, mas mostrando o valor dentro dessa variável |
+| Break | Ele para a repetição  |
+| Operador ternério | É uma versão curta do if-else |
+| Math.random | Gera número pseudo-aleatório de 0 até 0.99999... (1 é exclusivo) |
+| Math.random * 10 | Gera um número decimal pseudo-aleatório entre 0 (inclusivo) e 10 (exclusivo), ou seja, de 0 até 9.999... |
+| parseInt | Converte um texto (string) em um número inteiro, ignorando casas decimais e caracteres não numéricos após os dígitos iniciais |
 
 ## 🤝 Contribuição
 Este é um projeto de estudos. Sinta-se à vontade para dar sugestões ou feedbacks!
